@@ -11,3 +11,4 @@ function start(){
 	},20);
 }
 document.oncontextmenu = () => false;
+document.getElementById('navbut_user').innerHTML = '社 区';
